@@ -1,2 +1,2 @@
 # BinTextConverter
-convert bin file to text file,or  conversely.
+convert bin file to hex format text file,or  conversely.
